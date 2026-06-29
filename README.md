@@ -31,7 +31,7 @@ M.S. in Software Engineering (Data Science) from Arizona State University.
 
 #### ML & Computer Vision
 
-What it does | Stack |
+! Project | What it does | Stack |
 |---|---|---|
 | [Posture Detection](https://github.com/jean-johnson-zwix/posture_estimation) | 🏆 **Voxel51 Hackathon — 1st Prize.** Real-time 33-point body tracking for posture analysis. | Python, MediaPipe, OpenCV |
 | [Multimodal Sentiment](https://github.com/jean-johnson-zwix/multimodal-sentiment-analysis) | Cross-modal attention fusion of RoBERTa (text) + ResNet-50 (vision) for sentiment classification. | PyTorch, AWS |
